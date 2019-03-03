@@ -62,6 +62,7 @@ header {
   text-align: center;
   background: url('images/bg.jpg') no-repeat top center ;
   background-size: cover;
+  background-position:center;
   overflow: hidden;
   padding-top: 60px;
 }
