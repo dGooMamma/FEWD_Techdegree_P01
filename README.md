@@ -1,1 +1,1 @@
-# FEWD_Techdegree_P01
+# Front End Web Development Techdegree - Project 01 - Personal Profile
