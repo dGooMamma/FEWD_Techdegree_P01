@@ -125,6 +125,20 @@ header .profile-image:hover {
   border: 4px solid #269a5c;
 }
 
+.card.experience {
+  margin-top: 60px;
+}
+
+#frog-gif {
+  border: 4px solid #269a5c;
+  border-radius: 10px;
+}
+
+span {
+  font-weight:lighter;
+  font-size:15px;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
